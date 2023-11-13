@@ -1,2 +1,3 @@
 # GPTEfrei
-ChatBot, python project 
+Projet Python
+My first chatBot
